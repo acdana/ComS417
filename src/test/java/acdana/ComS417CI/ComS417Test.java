@@ -3,11 +3,8 @@ package acdana.ComS417CI;
 import acdana.ComS417CI.ComS417;
 import junit.framework.TestCase;
 
-/**
- * Unit test for simple App.
- */
-public class ComS417Test extends TestCase {
 
+public class ComS417Test extends TestCase {
 
     public void testAddNumbers()
     {
